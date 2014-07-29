@@ -26,7 +26,7 @@ Once you have defined your environment variables, run the script for your enviro
   most common:
     do_all              generate tables and indexes, then load data (small databases)
     do_all_in_steps     generate tables, load data, then create indexes (large databases)
--
+
   other options:
     dump_data_only      dump the table data only
     dump_data_indexes   dump the table data and indexes
